@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BatTest",
+            "request": "launch",
+            "mainClass": "BatTest",
+            "projectName": "ColeB-assignments_7307b1d7"
+        },
+        {
+            "type": "java",
             "name": "Launch GorillaTest",
             "request": "launch",
             "mainClass": "GorillaTest",
