@@ -1,0 +1,9 @@
+public class PhoneTest {
+
+    public static void main(String[] args) {
+        Galaxy s9 = new Galaxy("S9", 99, "T-Mobile", "RING RING");
+        IPhone iPhone10 = new IPhone("X", 100, "ATT", "Zzzz zzz zzz");
+        s9.displyInfo();
+        iPhone10.displayInfo();
+    }
+}
